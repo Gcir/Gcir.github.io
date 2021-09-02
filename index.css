@@ -1,0 +1,47 @@
+header {
+    font-size: 35px;
+    font-family:monospace;
+    background-color:teal;
+    text-align: left;
+    box-sizing: border-box;
+    height: 85px;
+    padding: 10px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: gray
+    
+}
+
+
+.navh {
+    color:oldlace;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 65px;
+    background-color: lightskyblue;
+    background:linear-gradient(#04e0ce, #2a6f9e 20%);
+    border-radius: 20px;
+    width: 1000px;
+    position: fixed;
+    top: 125px;
+    padding:125px;
+    left: 55px;
+    
+} 
+
+.art {
+    background-color: rgb(179, 24, 199);
+    border-radius: 15px;
+    width: 400px;
+    position: fixed;
+    right: 475px;
+    top: 600px;
+    padding: 5px;
+    
+} 
